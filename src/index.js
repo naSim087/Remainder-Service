@@ -12,9 +12,9 @@ app.listen(PORT,()=>{
   console.log(`server started at ${PORT}`);
   sendBasicEmail(
     'hi@gmail.com',
-    'nasimsheikh688@gmail.com',
+    'sharukhsheikh547@gmail.com',
     'hi can we meet',
-    'I am shreya'
+    'I am shreya , can we meet i want to  '
   );
 });
 
